@@ -1,10 +1,30 @@
 using System;
 
-class Program
+public class Inventario
 {
-  static void Main()
-  {
+   public void AgregarProductos(nombre,stock)
+   {
+  
+   }
 
-  }
+  public void ListasProductos()
+   {
+  
+   }
+
+  public void BuscarProducto()
+   {
+  
+   }
+
+  public void ActualizarStock(id,nuevoStock)
+   {
+  
+   }
+
+  public void EliminarProducto()
+   {
+  
+   }
 }
 
